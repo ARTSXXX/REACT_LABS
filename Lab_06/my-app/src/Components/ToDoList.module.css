@@ -1,0 +1,46 @@
+.btn {
+    font-size: 20px;
+}
+.text {
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.list {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+   
+    margin-top: 24px;
+}
+.list:hover {
+    background-color: rgb(48, 97, 99);
+}
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.red {
+ 
+    background-color: #df6464;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 24px;
+}
+
+
+
+.centerDate{
+    margin: 0 auto;
+    width: 200px;
+    margin-left: 50px;
+ 
+    
+}
+.title{
+ 
+    width: 500px;
+    margin-right: 50px;
+}

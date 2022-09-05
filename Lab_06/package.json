@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gradient-background": "^1.6.3",
+    "uuid": "^8.3.2"
+  }
+}

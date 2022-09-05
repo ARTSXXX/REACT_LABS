@@ -1,0 +1,16 @@
+.full {
+  padding: 50px;
+  position: absolute; top: 50%; left: 50%;
+
+  transform: translate(-30%, -50%);
+
+}
+.green {
+  color:green;
+}
+.yellow {
+  color: yellow;
+}
+.red {
+  color:blue;
+}
